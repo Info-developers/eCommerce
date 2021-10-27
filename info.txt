@@ -1,0 +1,10 @@
+1 => Login and Registration
+2 => Home design like E-Comm Website
+3 => Product Search
+4 => Add to Cart
+5 => User Order Placement
+6 => Order Details
+7 => Order History
+8 => User Profile
+9 => Style with bootstrap
+10 => code uploaded on git
